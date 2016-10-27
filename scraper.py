@@ -1,5 +1,4 @@
 #Author: Peter Swanson
-#Created for Ag for Hire
 
 import mechanize    #Mechanize for accessing forms and controls
 from BeautifulSoup import BeautifulSoup #BS for parsing HTML
